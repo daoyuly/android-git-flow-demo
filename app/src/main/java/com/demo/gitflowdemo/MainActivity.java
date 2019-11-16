@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
             return true;
         }
 
-        // demo master 3
+        // demo master 4
         return super.onOptionsItemSelected(item);
     }
 }
